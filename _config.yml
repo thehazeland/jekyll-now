@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/thehazeland/thehazeland.github.io/mast
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: david@thehazeland.com
+  facebook: davidhazeland
   flickr:
-  github: thehazeland/thehazeland.github.io
-  instagram:
-  linkedin:
+  github: davidhazeland
+  instagram: davidhazeland
+  linkedin: davidhazeland
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: thehazeland
+  twitter: davidhazeland
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
