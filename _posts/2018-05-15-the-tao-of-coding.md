@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout:     post
 title:      The Tao of Coding
 date:       2018-05-15 13:13:13
