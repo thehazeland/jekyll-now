@@ -5,12 +5,8 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm David Hazeland.
 
 ### Contact me
 
-[luke@thehazeland.com](mailto:luke@thehazeland.com)
+[david@thehazeland.com](mailto:david@thehazeland.com)
