@@ -6,7 +6,7 @@ summary:    Before think anything, let’s talk about coding. A simple but cruci
 categories: blog
 ---
 
-Before think anything, let’s talk about coding. A simple but crucial question, what is coding?
+Before thinking anything, let’s talk about coding. A simple but crucial question, what is coding?
 After researching, learning or even code something, it turns out that coding is just a method human use to talk with machine, or in other words, tell them do something we don’t want or can't do because there’re some jobs suit for machine, but not suit for us.
 
 So the tao of coding means the right way, the good way to do coding. But why do we need it?
