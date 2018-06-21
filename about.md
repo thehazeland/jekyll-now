@@ -9,4 +9,4 @@ I'm David Hazeland.
 
 ### Contact me
 
-[david@thehazeland.com](mailto:david@thehazeland.com)
+[davidhazeland@gmail.com](mailto:davidhazeland@gmail.com)
